@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `The Joy of Bob`,
+    description: `This quote gallery was created to be a happy little place on the web to get timeless wisdom from Bob Ross, for whatever may be going on in your life.`,
+    author: `@designingdiamond`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
